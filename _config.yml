@@ -1,0 +1,24 @@
+title: Win the Database platform - PosgreSQL
+description: In this course, participants will learn to leverage Azure AI technologies to enhance customer interaction on a digital platform. The course will guide learners through the process of integrating Azure AI functionalities to moderate user-generated content and deploy a personalized chatbot, ensuring a secure and customized user experience.
+theme: just-the-docs
+
+aux_links:
+  "Win the Database platform - PosgreSQL": 
+    - "https://github.com/microsoft/TechExcel-Win-the-database-platform/new/main"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
