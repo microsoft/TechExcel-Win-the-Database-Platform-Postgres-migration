@@ -4,7 +4,7 @@ theme: just-the-docs
 
 aux_links:
   "Win the Database platform - PosgreSQL migration": 
-    - "https://github.com/microsoft/TechExcel-Win-the-database-platform"
+    - "https://github.com/microsoft/TechExcel-Postgres-migration"
 
 callouts_level: quiet # or loud
 callouts:
