@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# TechExcel - Win the database - Postgres migration
+# TechExcel - Win the database - PostgreSQL migration
 
 ## Introduction  
 
