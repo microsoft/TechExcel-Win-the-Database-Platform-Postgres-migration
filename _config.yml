@@ -3,7 +3,7 @@ description: In this course, participants will learn to Accelerate migrations an
 theme: just-the-docs
 
 aux_links:
-  "Win the Database platform - PosgreSQL migration": 
+  "Win the Database platform - PosgtreSQL migration": 
     - "https://github.com/microsoft/TechExcel-Win-the-Database-Platform-Postgres-migration"
 
 callouts_level: quiet # or loud
