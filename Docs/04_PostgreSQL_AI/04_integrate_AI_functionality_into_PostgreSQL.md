@@ -1,11 +1,11 @@
 ---
-title: 'Exercise 04: PostgreSQL AI'
+title: 'Exercise 04: Integrate AI functionality into PostgreSQL'
 layout: default
 nav_order: 5 
 has_children: true
 ---
 
-# Exercise 04: PostgreSQL AI
+# Exercise 04: Integrate AI functionality into PostgreSQL
 
 ## Scenario 
 
