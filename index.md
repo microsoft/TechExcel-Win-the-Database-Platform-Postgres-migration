@@ -10,15 +10,15 @@ This lab teaches you TBD.
 
 ## Architecture
 
-TBD - need architecture diagram
+TBD - need architecture diagram for the whole lab, or one for each exercise if there's no connection between them
 
 ## Exercises
 
-This lab has exercises on:
+This lab has the following exercises:
 
- - Azure Cosmos DB and AI
- - PostgreSQL migration
- - PostgreSQL and AI
+ - Build a serverless, AI RAG application that uses data from Azure Cosmos DB 
+ - Migrate an on-premises PostgreSQL server to Azure Database for PostgreSQL
+ - Integrate AI functionality into PostgreSQL
 
 ## Prerequisites
 
