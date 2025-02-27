@@ -22,16 +22,3 @@ In this hands-on lab, we’ll build serverless, AI RAG applications using .NET A
 ### Duration
 
 Estimated Time: **120 minutes**
-
----
-
-### Sign to the lab VM
-
-Before you begin, sign in to the VM environment you'll use for the duration of this lab.
-
-- Sign in to the machine using the credentials provided here.
-
-    | | Value |
-    | --- | --- |
-    | Username | Your VirtualMachine BuildBaseVM username |
-    | Password | Your VirtualMachine BuildBaseVM password |
