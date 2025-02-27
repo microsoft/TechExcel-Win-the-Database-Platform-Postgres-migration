@@ -10,6 +10,8 @@ This lab teaches you TBD.
 
 ## Architecture
 
+TBD - need architecture diagram
+
 ## Exercises
 
 This lab has exercises on:
