@@ -1,9 +1,9 @@
 title: TechExcel: Win the Database platform
-description: In this course, participants will learn to .... TBD.
+description: In this course, participants will learn to.
 theme: just-the-docs
 
 aux_links:
-  "Win the Database platform - PosgtreSQL migration": 
+  "Win the Database platform":
     - "https://github.com/microsoft/TechExcel-Win-the-Database-Platform"
 
 callouts_level: quiet # or loud
