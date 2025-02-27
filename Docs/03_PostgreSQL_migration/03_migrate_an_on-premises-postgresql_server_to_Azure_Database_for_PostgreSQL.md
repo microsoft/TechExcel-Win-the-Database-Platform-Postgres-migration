@@ -1,11 +1,11 @@
 ---
-title: 'Exercise 03: PostgreSQL Migration'
+title: 'Exercise 03: Migrate an on-premises PostgreSQL server to Azure Database for PostgreSQL'
 layout: default
 nav_order: 4 
 has_children: true
 ---
 
-# Exercise 03: PostgreSQL Migration 
+# Exercise 03: Migrate an on-premises PostgreSQL server to Azure Database for PostgreSQL
 
 ## Scenario 
 
