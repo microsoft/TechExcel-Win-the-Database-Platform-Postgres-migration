@@ -1,10 +1,10 @@
-title: TechExcel: Win the Database platform - PosgreSQL migration
-description: In this course, participants will learn to Accelerate migrations and drive app growth leveraging PostgreSQL AI capabilities.
+title: TechExcel: Win the Database platform
+description: In this course, participants will learn to .... TBD.
 theme: just-the-docs
 
 aux_links:
   "Win the Database platform - PosgtreSQL migration": 
-    - "https://github.com/microsoft/TechExcel-Win-the-Database-Platform-Postgres-migration"
+    - "https://github.com/microsoft/TechExcel-Win-the-Database-Platform"
 
 callouts_level: quiet # or loud
 callouts:
