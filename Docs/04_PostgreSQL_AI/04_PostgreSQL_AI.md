@@ -5,7 +5,7 @@ nav_order: 5
 has_children: true
 ---
 
-# Exercise 04: PostgreSQL AI 
+# Exercise 04: PostgreSQL AI
 
 ## Scenario 
 
