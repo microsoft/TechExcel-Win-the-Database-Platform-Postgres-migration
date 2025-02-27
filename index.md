@@ -10,7 +10,7 @@ This lab teaches you TBD.
 
 ## Architecture
 
-TBD - need architecture diagram for the whole lab, or one for each exercise if there's no connection between them
+TBD - need architecture diagram(s) or concept map(s). If the three labs are totally distinct, we need one for each.
 
 ## Exercises
 
