@@ -22,7 +22,7 @@ TBD - need architecture diagram(s) or concept map(s). If the three labs are tota
 
 This lab has the following exercises:
 
- - Build a serverless, AI RAG application that using data from Azure Cosmos DB 
+ - Build a serverless, AI RAG application using data from Azure Cosmos DB 
  - Migrate an on-premises PostgreSQL server to Azure Database for PostgreSQL
  - Integrate AI functionality into PostgreSQL
 
