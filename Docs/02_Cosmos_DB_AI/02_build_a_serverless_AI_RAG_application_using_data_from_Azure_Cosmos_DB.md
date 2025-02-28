@@ -13,8 +13,7 @@ Cosmic Works Bike Company (CWBC) is a leading provider of bikes and e-bikes, hea
 
 By integrating AI and cloud services, CWBC created an assistant that answers typical user questions (like “How do I maintain my disc brakes?”) alongside dynamic route recommendations. A retrieval augmented generation (RAG) approach helps the assistant pull accurate data from Cosmos DB, ensuring it only references real CWBC products and information.
 
-
-In this hands-on lab, we’ll build serverless, AI RAG applications using .NET Aspire, Semantic Kernel, and Azure Cosmos DB with DiskANN and vector search! You’ll learn how to implement Semantic Kernel Azure OpenAI extensions, NoSQL connectors, and semantic caching. Gain practical insights into how to design, build, deploy, and scale RAG pattern applications in Azure! The skills in this lab will give you a solid foundation to create your own generative AI applications. It’s recommended to have C# or other programming language experience before completing this lab.
+In this lab, you’ll build serverless, AI RAG applications using .NET Aspire, Semantic Kernel, and Azure Cosmos DB with DiskANN and vector search. You’ll implement Semantic Kernel Azure OpenAI extensions, NoSQL connectors, and semantic caching. You'll gain practical insights into how to design, build, deploy, and scale RAG pattern applications in Azure. The skills in this lab will give you a solid foundation to create your own generative AI applications. It’s recommended to have C# or other programming language experience before completing this lab.
 
 ## Objectives
 
